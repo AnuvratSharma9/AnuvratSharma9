@@ -1,7 +1,107 @@
-# 💫 About Me:
-# Hi, I'm Anuvrat Sharma 👋<br><br>AI/ML student focused on building intelligent systems, financial data tools, and scalable backend infrastructure.<br><br>I am particularly interested in the intersection of **machine learning, quantitative finance, and Data Science**, and I enjoy building systems that transform complex data into actionable insights.<br><br>---<br><br>## 🧠 Current Focus<br><br>- Machine Learning fundamentals and applied modeling<br>- Financial data analysis and quantitative systems<br>- Backend engineering for AI applications<br>- Production-ready ML pipelines and APIs<br>- AI agents and automation systems<br><br>---<br><br>## ⚙️ Technical Skills<br><br>### Programming<br>- Python<br>- Java(Learning)<br>- SQL<br><br>### Machine Learning & Data Science<br>- Scikit-learn<br>- Supervised Learning<br>- Unsupervised Learning<br>- Feature Engineering<br>- Model Evaluation<br><br>### Data & Analytics<br>- Pandas<br>- NumPy<br>- Matplotlib<br>- Data Cleaning<br>- Exploratory Data Analysis<br><br>### Backend & Systems<br>- FastAPI<br>- REST APIs<br>- Docker<br>- Streamlit<br>- SQL Databases<br><br><br><br>## 🌱 Always Learning<br><br>I believe the most powerful engineers combine:<br><br>- **mathematics**<br>- **software engineering**<br>- **domain expertise**<br><br>My focus is building at the intersection of **AI, finance, and scalable systems**.<br><br>---<br><br>⭐ Always building. Always learning.<br>
+# Hi, I'm Anuvrat Sharma 👋
 
+AI/ML student focused on building intelligent systems, financial data tools, and scalable backend infrastructure.
 
+I am particularly interested in the intersection of **machine learning, quantitative finance, and software engineering**, and I enjoy building systems that transform complex data into actionable insights.
+
+---
+
+## 🧠 Current Focus
+
+- Machine Learning fundamentals and applied modeling
+- Financial data analysis and quantitative systems
+- Backend engineering for AI applications
+- Production-ready ML pipelines and APIs
+- AI agents and automation systems
+
+---
+
+## ⚙️ Technical Skills
+
+### Programming
+- Python
+- C
+- C++
+- Java
+- SQL
+
+### Machine Learning & Data Science
+- Scikit-learn
+- NLTK
+- Supervised Learning
+- Unsupervised Learning
+- Feature Engineering
+- Model Evaluation
+
+### Data & Analytics
+- Pandas
+- NumPy
+- Matplotlib
+- Data Cleaning
+- Exploratory Data Analysis
+
+### Backend & Systems
+- FastAPI
+- REST APIs
+- Docker
+- Streamlit
+- SQL Databases
+
+### AI & Automation
+- LangChain
+- LangGraph
+- Flowise
+- n8n
+- Ollama
+
+---
+
+## 📚 Learning & Research Interests
+
+- Quantitative Finance
+- Time Series Modeling
+- Financial NLP
+- Market Intelligence Systems
+- AI Agents and Autonomous Workflows
+- Data Engineering for Machine Learning
+- Scalable ML Infrastructure
+
+---
+
+## 🎯 Long-Term Vision
+
+My goal is to build **high-impact AI and financial data systems** that operate at scale and provide meaningful insights for complex markets.
+
+I am particularly interested in working on problems involving:
+
+- financial modeling
+- intelligent automation
+- machine learning infrastructure
+- market intelligence platforms
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Always Learning
+
+I believe the most powerful engineers combine:
+
+- **mathematics**
+- **software engineering**
+- **domain expertise**
+
+My focus is building at the intersection of **AI, finance, and scalable systems**.
+
+---
+
+⭐ Always building. Always learning.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anuvrat-sharma-a9593b260/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmaanuvrat3@gmail.com) 
 
