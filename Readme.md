@@ -2,7 +2,7 @@
 
 AI/ML student focused on building intelligent systems, financial data tools, and scalable backend infrastructure.
 
-I am particularly interested in the intersection of **machine learning, quantitative finance, and software engineering**, and I enjoy building systems that transform complex data into actionable insights.
+I am particularly interested in the intersection of **machine learning, quantitative finance, and Data Science**, and I enjoy building systems that transform complex data into actionable insights.
 
 ---
 
