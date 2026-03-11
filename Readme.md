@@ -1,61 +1,14 @@
-# Hi, I'm Anuvrat Sharma 👋
+# 💫 About Me:
+# Hi, I'm Anuvrat Sharma 👋<br><br>AI/ML student focused on building intelligent systems, financial data tools, and scalable backend infrastructure.<br><br>I am particularly interested in the intersection of **machine learning, quantitative finance, and Data Science**, and I enjoy building systems that transform complex data into actionable insights.<br><br>---<br><br>## 🧠 Current Focus<br><br>- Machine Learning fundamentals and applied modeling<br>- Financial data analysis and quantitative systems<br>- Backend engineering for AI applications<br>- Production-ready ML pipelines and APIs<br>- AI agents and automation systems<br><br>---<br><br>## ⚙️ Technical Skills<br><br>### Programming<br>- Python<br>- Java(Learning)<br>- SQL<br><br>### Machine Learning & Data Science<br>- Scikit-learn<br>- Supervised Learning<br>- Unsupervised Learning<br>- Feature Engineering<br>- Model Evaluation<br><br>### Data & Analytics<br>- Pandas<br>- NumPy<br>- Matplotlib<br>- Data Cleaning<br>- Exploratory Data Analysis<br><br>### Backend & Systems<br>- FastAPI<br>- REST APIs<br>- Docker<br>- Streamlit<br>- SQL Databases<br><br><br><br>## 🌱 Always Learning<br><br>I believe the most powerful engineers combine:<br><br>- **mathematics**<br>- **software engineering**<br>- **domain expertise**<br><br>My focus is building at the intersection of **AI, finance, and scalable systems**.<br><br>---<br><br>⭐ Always building. Always learning.<br>
 
-AI/ML student focused on building intelligent systems, financial data tools, and scalable backend infrastructure.
 
-I am particularly interested in the intersection of **machine learning, quantitative finance, and Data Science**, and I enjoy building systems that transform complex data into actionable insights.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anuvrat-sharma-a9593b260/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sharmaanuvrat3@gmail.com) 
 
----
-
-## 🧠 Current Focus
-
-- Machine Learning fundamentals and applied modeling
-- Financial data analysis and quantitative systems
-- Backend engineering for AI applications
-- Production-ready ML pipelines and APIs
-- AI agents and automation systems
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AnuvratSharma9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ⚙️ Technical Skills
-
-### Programming
-- Python
-- Java(Learning)
-- SQL
-
-### Machine Learning & Data Science
-- Scikit-learn
-- Supervised Learning
-- Unsupervised Learning
-- Feature Engineering
-- Model Evaluation
-
-### Data & Analytics
-- Pandas
-- NumPy
-- Matplotlib
-- Data Cleaning
-- Exploratory Data Analysis
-
-### Backend & Systems
-- FastAPI
-- REST APIs
-- Docker
-- Streamlit
-- SQL Databases
-
-
-
-## 🌱 Always Learning
-
-I believe the most powerful engineers combine:
-
-- **mathematics**
-- **software engineering**
-- **domain expertise**
-
-My focus is building at the intersection of **AI, finance, and scalable systems**.
-
----
-
-⭐ Always building. Always learning.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
